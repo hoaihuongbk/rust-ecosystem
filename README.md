@@ -46,6 +46,7 @@ A curated list of awesome tools and libraries written in Rust for data engineeri
 ## Query Engines
 
 - [DataFusion](https://github.com/apache/datafusion) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format.
+- [Comet](https://github.com/apache/arrow-datafusion-comet) - Comet is a Spark plugin that accelerates Spark SQL using DataFusion and Arrow, providing significant performance improvements through optimized query planning and shuffle operations.
 
 
 ## Databases
