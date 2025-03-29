@@ -17,6 +17,7 @@ A curated list of awesome tools and libraries written in Rust for data engineeri
 - [OLAP Systems](#olap-systems)
 - [Web Frameworks](#web-frameworks)
 - [Miscellaneous](#miscellaneous)
+- [References](#references)
 
 ## ETL Tools
 
@@ -103,7 +104,9 @@ A curated list of awesome tools and libraries written in Rust for data engineeri
 - [Vector](https://github.com/vectordotdev/vector) - A High-Performance, Logs, Metrics, & Events Router.
 - [Indexify](https://github.com/tensorlakeai/indexify) - Data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation.
 
+## References
 
+This curated list is derived from the [awesome-rust](https://github.com/rust-unofficial/awesome-rust) repository, focusing specifically on tools and libraries that are most relevant to the data engineering ecosystem. The original awesome-rust repository contains a comprehensive collection of Rust resources across many domains, while this list highlights those particularly useful for data engineering workflows, data processing, storage, and analysis.
 
 ## Contributing
 
